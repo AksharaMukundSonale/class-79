@@ -1,0 +1,12 @@
+input{
+    margin: 12px;
+}
+#submitBTN{
+margin-top: 20px;
+margin-bottom: 20px;
+}
+#sortBTN{
+    display: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
